@@ -2,3 +2,4 @@ gapminder
 matplotlib
 numpy
 pandas
+pre-commit
