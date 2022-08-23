@@ -4,3 +4,4 @@ numpy
 pandas
 pre-commit
 pyprojroot
+scikit-learn # for more interesting toy datasets
